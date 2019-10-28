@@ -1,0 +1,2 @@
+# Text-Classification---20-Newsgroups-Dataset.---Python
+One of the widely used natural language processing tasks in different business problems is “Text Classification”. My goal for this project is to classify the text documents into defined categories. The dataset we are using is “The 20 Newsgroups data”. The 20 Newsgroup data is the collection of approximately 20,000 newsgroup documents, divided into 20 different newsgroups. We are using the scikit-learn API to fetch the data for this task.
